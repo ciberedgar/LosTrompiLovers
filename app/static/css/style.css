@@ -1,5 +1,11 @@
 /* Custom stylesheet */
 
+.btn-lime {
+  color:#4dc54d;
+  background-color:#247224;
+  border-color:#2fb42f;
+}
+
 .nav-link:hover {
   color: inherit;
   text-decoration: none;
@@ -15,3 +21,4 @@
   display: inline-block;
   vertical-align: text-top;
 }
+
